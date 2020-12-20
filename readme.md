@@ -40,8 +40,8 @@ PART 3. WORK WITH VAGRANT
 
 - Init hashicorp/precise64
 
-![vagrant](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/vagrant.png
+![vagrant](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/vagrant.png)
 
 - Create several servers
 
-![vagrant](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/vagrant_2_servers.png
+![vagrant](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/vagrant_2_servers.png)
