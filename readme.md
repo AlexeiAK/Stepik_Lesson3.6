@@ -1,5 +1,16 @@
 ﻿Module 2 Virtualization and Cloud Basic
 
+PART 1. HYPERVISORS
+
+1. Type 1 hipervisors work on the hardware platform: Microsoft Hyper-V, VMware ESX Server, Citrix XenServer. 
+   Type 2 hipervisors runs on the host OS: VMware Workstation,Oracle VM VirtualBox, Microsoft Virtual PC.
+2. Hyper-V is more popular for those who use other Microsoft products.
+   KVM - Open source software that provides virtualization in a Linux environment.
+   Citrix(XEN) offers a suite of low-cost products for enterprises. 
+   VirtualBox is a free cross-platform solution. 
+
+
+
 PART 2. WORK WITH VIRTUALBOX
 
 1.First run VirtualBox and Virtual Machine (VM)
