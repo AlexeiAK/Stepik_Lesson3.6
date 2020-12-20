@@ -1,4 +1,4 @@
-Module 2 Virtualization and Cloud Basic
+﻿Module 2 Virtualization and Cloud Basic
 
 PART 2. WORK WITH VIRTUALBOX
 1.First run VirtualBox and Virtual Machine (VM)
@@ -12,7 +12,9 @@ PART 2. WORK WITH VIRTUALBOX
 
 2.3 Configure a shared folder
 
-![share_folder](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/add_share_folder.png)
+![share_folder](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/share_folder.png)
+
+![]https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/share_folder_result.png)
 
 - NAT
 
@@ -22,3 +24,12 @@ PART 2. WORK WITH VIRTUALBOX
 - Bridged Adapter
 
 ![bridge](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/bridge.png)
+
+- Host Only
+                 
+![host_only](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/host_only.png)
+
+- Table of possible connections  
+
+![table](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/table.png)
+
