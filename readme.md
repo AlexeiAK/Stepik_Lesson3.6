@@ -1,16 +1,18 @@
 ﻿Module 2 Virtualization and Cloud Basic
 
 PART 2. WORK WITH VIRTUALBOX
+
 1.First run VirtualBox and Virtual Machine (VM)
+
 ![start_vbox.png](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/start_vbox.png)
 
 2.Configuration of virtual machines
 
-2.2 Configure the USB
+- Configure the USB
 
 ![usb](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/usb.png)
 
-2.3 Configure a shared folder
+- Configure a shared folder
 
 ![share_folder](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/share_folder.png)
 
@@ -33,3 +35,13 @@ PART 2. WORK WITH VIRTUALBOX
 
 ![table](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/table.png)
 
+
+PART 3. WORK WITH VAGRANT
+
+- Init hashicorp/precise64
+
+![vagrant](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/vagrant.png
+
+- Create several servers
+
+![vagrant](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/vagrant_2_servers.png
