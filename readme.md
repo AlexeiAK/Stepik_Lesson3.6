@@ -16,7 +16,7 @@ PART 2. WORK WITH VIRTUALBOX
 
 ![share_folder](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/share_folder.png)
 
-![]https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/share_folder_result.png)
+![](https://github.com/KonovalovAlexey/Stepik_Lesson3.6/blob/master/share_folder_result.png)
 
 - NAT
 
